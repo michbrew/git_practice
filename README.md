@@ -1,4 +1,4 @@
 
 # git_practice
 
-## I am *learning* to code!
+<font color="blue">## I am *learning* to code!</font>
