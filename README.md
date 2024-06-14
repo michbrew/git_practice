@@ -1,3 +1,4 @@
-#git_practice
 
-#I am **learning** to code!
+# git_practice
+
+## I am **learning** to code!
